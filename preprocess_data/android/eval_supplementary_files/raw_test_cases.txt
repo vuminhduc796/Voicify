@@ -1,0 +1,101 @@
+go to the Play Store.||| {OPEN: "Play Store"} |||
+tap Account .||| {TAP: "Account"} ||| games, apps, account, books, category
+open WhatsApp.||| {OPEN: "WhatsApp"} |||
+type your message.||| {ENTER: "your message"} |||
+tap the smiley face.||| {TAP: "smiley face"} ||| send, call, smiley face, option, mini keyboard icon
+tap the mini keyboard icon.||| {TAP: "mini keyboard icon"} ||| send, call, smiley face, option, mini keyboard icon
+Tap the emoji.||| {TAP: "emoji"} ||| emoji
+Tap the send icon.||| {TAP: "send icon"} ||| send, call, smiley face, option, mini keyboard icon
+Open Office Lens.||| {OPEN: "Office Lens"} |||
+swipe up .||| {SWIPE: "Up"} |||
+Open the Facebook Messenger app.||| {OPEN: "Facebook Messenger"} |||
+Select conversation.||| {TAP: "conversation"} ||| chat, people, conversation
+tap on the i menu.||| {TAP: "i menu"} ||| Aa, i menu, send
+launch the Fitbit app .||| {OPEN: "Fitbit"} |||
+Tap the Account icon.||| {TAP: "Account icon"} ||| today, account icon, discover, community, premium, covid-19
+Tap the Wallet.||| {TAP: "Wallet"} ||| amazon alexa, clock faces, apps, media, wallet, how to use
+enter 4-digit PIN code.||| {ENTER: "4-digit PIN code"} |||
+then click Privacy .||| {TAP: "Privacy"} ||| privacy, accessibility, search, general, advanced
+Then check off Clear private data on exit.||| {TAP: "Clear private data on exit"} ||| clear private data on exit, manage logins, do not track, tracking protection, cache, cookies
+launch Opera app.||| {OPEN: "Opera"} |||
+Tap the Opera logo.||| {TAP: "Opera logo"} ||| ebay, opera logo, amazon, search
+Tap Settings .||| {TAP: "Settings"} ||| downloads, settings, history, bookmarks, offline pages, night mode, ad blocking
+Scroll down .||| {SWIPE: "Down"} |||
+tap Clear browsing data.|||  {TAP: "Clear browsing data"} ||| send usage reports, Clear browsing data, frequently asked question, report a problem, about opera, passwords, site settings, payments
+Start Tasker.||| {OPEN: "Tasker"} |||
+go to the Profiles tab.||| {TAP: "Profiles"} ||| tasks, scenes, profiles, home, internet, orientation face down, headset plugged any, received text any
+click the Plus symbol.||| {TAP: "Plus symbol"} ||| plus symbol, search, option
+then select Phone .||| {TAP: "Phone"} ||| home, menu, settings, google, play store, tmobile, messages, phone, files, drive, camera, calendar, contacts
+choose Compose SMS .||| {TAP: "Compose SMS"} ||| search links, compose SMS, option
+Type the recipients that you want to send the text to.||| {ENTER: "the recipients that you want to send the text to"} |||
+Open Settings app.||| {OPEN: "Settings"} |||
+Tap Battery.||| {TAP: "Battery"} ||| storage, battery, sound & vibration, display, wallpaper & style, accessibility, security, privacy
+choose Adaptive Battery .||| {TAP: "Adaptive Battery"} ||| battery usage, battery saver, Adaptive Battery, battery percentage
+Tap Open.||| {TAP: "Open"} |||
+Tap the double-horizontal ellipsis icon.||| {TAP: "double-horizontal ellipsis icon"} |||
+swipe up.||| {SWIPE: "Up"} |||
+Open Calendar .||| {OPEN: "Calendar"} |||
+Tap the plus sign .||| {TAP: "plus sign"} ||| search, july, plus sign, menu
+Enter Title, date, time and details.||| {ENTER: "Title, date, time and details"} |||
+tap Save .||| {TAP: "save"} ||| cancel, save
+Tap Dolphin icon.||| {TAP: "Dolphin icon"} ||| dolphin icon, search or enter address, bookmark icon, plugins
+Tap Clear data .||| {TAP: "Clear data"} ||| downloads, exit, clear data
+Check off Browsing history .||| {TAP: "Browsing history"} ||| browsing history, cache and site data, cookies, clear selected data, form data, passwords, location access
+Tap Clear selected data .||| {TAP: "Clear selected data"} ||| browsing history, cache and site data, cookies, clear selected data, form data, passwords, location access
+Open Digital Wellbeing app.||| {OPEN: "Digital Wellbeing"} |||
+Open Tasker.||| {OPEN: "Tasker"} |||
+Launch the Play Store app.||| {OPEN: "Play Store"} |||
+Tap on My apps & games .||| {TAP: "My apps & games"} ||| overview, share apps, updates available, my apps & games, update all, see details
+Tap on Installed.||| {TAP: "Installed"} ||| installed, overview, update available, games
+Tap on the Uninstall button.||| {TAP: "Uninstall"} ||| uninstall, update, search, option, rate this app
+launch Gallery .||| {OPEN: "Gallery"} |||
+Tap an album.||| {TAP: "album"} ||| photos, search, sharing, library, album
+Tap Yes.||| {TAP: "Yes"} ||| yes, cancel
+Launch the Google Play Music app.||| {OPEN: "Google Play Music"} |||
+Tap the menu button.||| {TAP: "menu"} ||| menu, cast, search, more
+tap Podcasts.||| {TAP: "Podcasts"} ||| top charts, listen now, new releases, podcasts, shop, subscribe
+tap Your Podcasts.||| {TAP: "Your Podcasts"} ||| top charts, your podcast
+Tap Manage subscription.||| {TAP: "Manage Subscription"} ||| Manage Subscription
+swipe up.||| {SWIPE: "Up"} |||
+Tap Network operators .|||  {TAP: "Network operators"} ||| network operators, data monitoring, access point names, data roaming, mobile data
+Tap Search now .||| {TAP: "Search now"} ||| search now, select automatically
+Scroll down.||| {SWIPE: "Down"} |||
+open the Google Maps app .|||  {OPEN: "Google Maps"} |||
+Tap Account Circle .||| {TAP: "Account Circle"} ||| search here, Account Circle, latest in the area, go, saved, updates
+tap Settings .||| {TAP: "Settings"} ||| turn on incognito mode, settings, your profile, location sharing, offline maps, your data in maps, help & feedback
+Navigation settings .||| {TAP: "Navigation settings"} ||| manage your preferences, navigation settings, shake to send feedback, about, terms & privacy, sign out of google maps, show scale on map, start maps in satellite view, distance units, chat, notifications
+lastly, press Voice level .||| {TAP: "Voice level"} ||| voice level, voice selection, play voice over bluetooth, play voice during phone calls, play test sound, google assistant settings
+Choose Louder.||| {TAP: "Louder"} ||| softer, normal, louder, muted, alerts only, unmuted
+Select language.||| {TAP: "language"} ||| manage your preferences, navigation settings, shake to send feedback, about, terms & privacy, sign out of google maps, language, wifi only, offline maps settings, google location settings, personal content
+press Settings.||| {TAP: "Settings"} ||| home, menu, settings, google, play store, tmobile, messages, phone, files, drive, camera, calendar, contacts
+Tap Mobile networks . ||| {TAP: "Mobile networks"} ||| VPN, Mobile networks, bluetooth, airplane mode, mobile data
+Tap Access Point Names .||| {TAP: "Access Point names"} ||| network operators, data monitoring, access point names, data roaming, mobile data
+Tap Mobile networks button.|||  {TAP: "Mobile networks"} ||| VPN, Mobile networks, bluetooth, airplane mode, mobile data
+tap the MORE icon.||| {TAP: "More Icon"} ||| more icon, back icon, APN 1
+tap New APN .||| {TAP: "New APN"} ||| back, restore default settings, new APN
+Tap three-dot menu icon.||| {TAP: "three-dot menu icon"} ||| search or type, facebook, youtube, three-dot menu icon
+enter PIN.||| {ENTER: "PIN"} |||
+Tap Settings.||| {TAP: "Settings"} ||| New tab, new incognito tab, bookmarks, recent tabs, history, Settings, downloads,help & feedback, desktop site
+Scroll down to the Advanced section.||| {SWIPE: "Down"} |||
+tap Privacy.||| {TAP: "Privacy"} ||| Privacy, accessibility, site settings, home page, notifications, payment methods, addresses and more, passwords, search engine, sign in to Chrome, sync and google services
+Scroll to the bottom.||| {SWIPE: "Down"} |||
+Launch incognito page in Chrome. ||| {OPEN: "incognito", "Chrome"} |||
+tap Clear browsing data.||| {TAP: "Clear browsing data"} ||| Clear browsing data, do not track, access payment methods, google services, preload pages for faster browsing and searching
+Tap Settings.||| {TAP: "Settings"} ||| New tab, new private tab, bookmarks, find in page, history, Settings, request desktop data, page, tools, help, add-ons
+Tap Clear private data .||| {TAP: "Clear private data"} ||| sign in, make firefox your default browser, general, search, privacy, accessibility, notifications, advanced, clear private data, mozilla firefox
+Check off Browsing history .|||  {TAP: "Browsing history"} ||| open tabs, Browsing history, search history, downloads, form history, cookies & active logins, cache, offline web data, site settings, synced tabs, cancel, clear data
+Tap Clear Data.||| {TAP: "Clear Data"} ||| open tabs, Browsing history, search history, downloads, form history, cookies & active logins, cache, offline web data, site settings, synced tabs, cancel, clear data
+swipe up on an empty spot.||| {SWIPE: "Up"} |||
+Open Mobile network page in Settings app.||| {OPEN: "Mobile Network", "Settings"} |||
+Tap Connected devices.||| {TAP: "Connected devices"} ||| network & internet, connected devices, apps, notifications, battery, storage, sound & vibration, display
+tap Bluetooth.||| {TAP: "Bluetooth"} ||| bluetooth, cast, printing, files received by bluetooth, chromebook, nearby share, android auto
+tap Settings .||| {TAP: "Settings"} ||| home, menu, settings, clock, youtube, music, gmail, maps, google, play store
+Open the Twitter app.||| {OPEN: "Twitter"} |||
+click more .||| {TAP: "More"} ||| more, home, explore, notifications, messages, bookmarks, lists, profile, tweet
+press Authentication app. ||| {TAP: "Authentication app"} ||| Authentication app, security key, text message
+open linkedIn mobile app. ||| {OPEN: "linkedIn"} |||
+Select Sign In and Security ||| {TAP: "Sign In and Security"} ||| account preferences, Sign In and Security, visibility, communications, data privacy, advertising data
+Turn on Two-Factor Authentication ||| {TAP: "Two-Factor Authentication"} ||| phone numbers, change password, where you're signed in, Two-Factor Authentication
+open Instagram ||| {OPEN: "Instagram"} |||
+tap settings ||| {TAP: "settings"} ||| archive, your activity, OR Code, saved, cart, close friends, discover people, settings
+tap security ||| {TAP: "security"} ||| privacy, security, help, about, theme, account, ads, notifications, follow and invite friends

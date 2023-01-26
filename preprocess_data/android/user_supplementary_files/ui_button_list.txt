@@ -1,0 +1,1 @@
+['<pad>', 'healthy burger', 'my account', 'my recipe', 'cooking', 'settings', 'text size', 'next', 'ok', 'let\'s go', 'start', 'stop','yes']

@@ -1,0 +1,27 @@
+@component	VIEW Comments	component:view_comments
+@component	VIEW Favorite Detail	component:view_favorite_detail
+@component	VIEW Main	component:view_main
+@component	VIEW Language	component:view_language
+@component	VIEW firebase auth internal Generic Idp	component:view_firebase_auth_internal_generic_idp
+@component	VIEW firebase auth internal Recaptcha	component:view_firebase_auth_internal_recaptcha
+@component	VIEW Introduction	component:view_introduction
+@component	VIEW Video Search	component:view_video_search
+@component	VIEW Videos Bookmarked	component:view_videos_bookmarked
+@component	VIEW Favorites	component:view_favorites
+@component	SEND Edit	component:send_edit
+@component	VIEW User Profile	component:view_user_profile
+@component	VIEW Recipe Store	component:view_recipe_store
+@component	VIEW Video Grid	component:view_video_grid
+@component	VIEW My Recipes Grid	component:view_my_recipes_grid
+@component	VIEW gms tagmanager Tag Manager Preview	component:view_gms_tagmanager_tag_manager_preview
+@component	VIEW Video Preview	component:view_video_preview
+@component	VIEW Splash	component:view_splash
+@component	VIEW Settings	component:view_settings
+@component	Edit	component:edit
+@component	VIEW Grid	component:view_grid
+@component	VIEW eggtimer Main	component:view_eggtimer_main
+@component	VIEW Search	component:view_search
+@component	VIEW Purchase	component:view_purchase
+@component	VIEW Detail	component:view_detail
+@component	VIEW Home	component:view_home
+@component	VIEW Shoppinglist	component:view_shoppinglist

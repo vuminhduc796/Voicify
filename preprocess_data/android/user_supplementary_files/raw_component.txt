@@ -1,0 +1,4 @@
+unit converter ultimate: ["VIEW Main"]
+world cuisines: ["VIEW Favorites", "VIEW Detail", "VIEW Video Grid", "VIEW Video Search", "VIEW Video Preview", "VIEW Home", "VIEW Recipe Store", "VIEW Splash", "VIEW Introduction", "VIEW firebase auth internal Recaptcha", "VIEW Purchase", "VIEW Comments", "VIEW Search", "VIEW Videos Bookmarked", "VIEW Grid", "VIEW Settings", "VIEW firebase auth internal Generic Idp", "VIEW My Recipes Grid", "VIEW Shoppinglist", "VIEW Language", "VIEW Favorite Detail", "VIEW User Profile"]
+steak timer: ["VIEW eggtimer Main", "VIEW gms tagmanager Tag Manager Preview"]
+fast notepad: ["SEND Edit", "Edit", "VIEW Main"]

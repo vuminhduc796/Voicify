@@ -1,0 +1,15 @@
+{
+     "eval_study" : {
+    "parser_type": "pretrain_seq2seq_ui",
+    "model_path": "/home/chunyangchen/Documents/Data1/Dustin/ui_parser/saved_models/android/model.android.sup.lstm.hid768.de_embed256.drop0.3.lr_decay0.985.lr_dec_aft40.beam1.pat1000.max_ep100.batch64.lr0.001.glorot.ls0.seed.clip_grad_modenorm.parserpretrain_seq2seq_ui.suffixandroid.bin",
+    "evaluator": "default_evaluator",
+    "plmm_name": "xlm-roberta-base"
+  },
+       "user_study" : {
+    "parser_type": "pretrain_seq2seq_ui",
+    "model_path": "/home/chunyangchen/Documents/Data1/Dustin/ui_parser/saved_models/android_user/model.android_eval.sup.lstm.hid768.de_embed256.drop0.3.lr_decay0.985.lr_dec_aft40.beam1.pat1000.max_ep100.batch64.lr0.001.glorot.ls0.seed.clip_grad_modenorm.parserpretrain_seq2seq_ui.suffixandroid_user.bin",
+    "evaluator": "default_evaluator",
+    "plmm_name": "xlm-roberta-base"
+  }
+
+}

@@ -1,0 +1,12 @@
+@ui_button	settings	settings
+@ui_button	cooking	cooking
+@ui_button	my recipe	my_recipe
+@ui_button	start	start
+@ui_button	let's go	let's_go
+@ui_button	Stop	stop
+@ui_button	yes	yes
+@ui_button	ok	ok
+@ui_button	my account	my_account
+@ui_button	text size	text_size
+@ui_button	next	next
+@ui_button	healthy burger	healthy_burger

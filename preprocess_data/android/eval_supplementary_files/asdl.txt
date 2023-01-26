@@ -1,0 +1,13 @@
+direction, key_button, ui_button, text, swipe, press_action, component, app, text_box
+
+expr = And(expr* arguments)
+    | Key(key_button key_variable)
+    | Swipe(direction direction_variable)
+    | Press(press_action press_action_variable, ui_button ui_button_variable)
+    | Open(component component_variable, apps? app_variable)
+    | Enter(text_box variable)
+
+
+# direction: down, up, right, left
+# key_button: HOME, BACK, OVERVIEW BUTTON
+# press_action: DOUBLE PRESS, LONG PRESS, PRESS

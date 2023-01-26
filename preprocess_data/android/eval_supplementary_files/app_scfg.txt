@@ -1,0 +1,19 @@
+@app	firefox	app:firefox
+@app	chrome	app:chrome
+@app	tasker	app:tasker
+@app	settings	app:settings
+@app	maps	app:maps
+@app	messages	app:messages
+@app	fitbit	app:fitbit
+@app	opera	app:opera
+@app	facebook messenger	app:facebook_messenger
+@app	play store	app:play_store
+@app	office lens	app:office_lens
+@app	digital well being	app:digital_well_being
+@app	calendar	app:calendar
+@app	dolphin	app:dolphin
+@app	gallery	app:gallery
+@app	google music app	app:google_music_app
+@app	twitter	app:twitter
+@app	linkedin	app:linkedin
+@app	instagram	app:instagram

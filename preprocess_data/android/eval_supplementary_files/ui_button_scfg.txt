@@ -1,0 +1,256 @@
+@ui_button	conversation	conversation
+@ui_button	play voice over bluetooth	play_voice_over_bluetooth
+@ui_button	new apn	new_apn
+@ui_button	your profile	your_profile
+@ui_button	share apps	share_apps
+@ui_button	printing	printing
+@ui_button	cancel	cancel
+@ui_button	headset plugged any	headset_plugged_any
+@ui_button	ad blocking	ad_blocking
+@ui_button	visibility	visibility
+@ui_button	communications	communications
+@ui_button	mini keyboard icon	mini_keyboard_icon
+@ui_button	maps	maps
+@ui_button	new tab	new_tab
+@ui_button	authentication app	authentication_app
+@ui_button	podcasts	podcasts
+@ui_button	access payment methods	access_payment_methods
+@ui_button	follow and invite friends	follow_and_invite_friends
+@ui_button	sign in to chrome	sign_in_to_chrome
+@ui_button	plus symbol	plus_symbol
+@ui_button	orientation face down	orientation_face_down
+@ui_button	unmuted	unmuted
+@ui_button	location sharing	location_sharing
+@ui_button	facebook	facebook
+@ui_button	messages	messages
+@ui_button	updates	updates
+@ui_button	mobile networks	mobile_networks
+@ui_button	or code	or_code
+@ui_button	navigation settings	navigation_settings
+@ui_button	search	search
+@ui_button	books	books
+@ui_button	files received by bluetooth	files_received_by_bluetooth
+@ui_button	notifications	notifications
+@ui_button	settings	settings
+@ui_button	storage	storage
+@ui_button	library	library
+@ui_button	phone numbers	phone_numbers
+@ui_button	manage logins	manage_logins
+@ui_button	top charts	top_charts
+@ui_button	youtube	youtube
+@ui_button	home	home
+@ui_button	cache	cache
+@ui_button	voice level	voice_level
+@ui_button	category	category
+@ui_button	contacts	contacts
+@ui_button	how to use	how_to_use
+@ui_button	yes	yes
+@ui_button	distance units	distance_units
+@ui_button	new private tab	new_private_tab
+@ui_button	request desktop data	request_desktop_data
+@ui_button	shake to send feedback	shake_to_send_feedback
+@ui_button	data privacy	data_privacy
+@ui_button	louder	louder
+@ui_button	camera	camera
+@ui_button	general	general
+@ui_button	play store	play_store
+@ui_button	menu	menu
+@ui_button	update all	update_all
+@ui_button	adaptive battery	adaptive_battery
+@ui_button	overview	overview
+@ui_button	softer	softer
+@ui_button	advertising data	advertising_data
+@ui_button	search here	search_here
+@ui_button	sign in and security	sign_in_and_security
+@ui_button	tracking protection	tracking_protection
+@ui_button	preload pages for faster browsing and searching	preload_pages_for_faster_browsing_and_searching
+@ui_button	cache and site data	cache_and_site_data
+@ui_button	two-factor authentication	two-factor_authentication
+@ui_button	payment methods	payment_methods
+@ui_button	saved	saved
+@ui_button	bluetooth	bluetooth
+@ui_button	tasks	tasks
+@ui_button	compose sms	compose_sms
+@ui_button	opera logo	opera_logo
+@ui_button	shop	shop
+@ui_button	frequently asked question	frequently_asked_question
+@ui_button	clock	clock
+@ui_button	mozilla firefox	mozilla_firefox
+@ui_button	google	google
+@ui_button	your podcast	your_podcast
+@ui_button	premium	premium
+@ui_button	form data	form_data
+@ui_button	history	history
+@ui_button	tweet	tweet
+@ui_button	accessibility	accessibility
+@ui_button	open tabs	open_tabs
+@ui_button	cart	cart
+@ui_button	updates available	updates_available
+@ui_button	exit	exit
+@ui_button	network operators	network_operators
+@ui_button	profiles	profiles
+@ui_button	music	music
+@ui_button	display	display
+@ui_button	personal content	personal_content
+@ui_button	recent tabs	recent_tabs
+@ui_button	about	about
+@ui_button	start maps in satellite view	start_maps_in_satellite_view
+@ui_button	normal	normal
+@ui_button	nearby share	nearby_share
+@ui_button	album	album
+@ui_button	offline maps	offline_maps
+@ui_button	clear private data on exit	clear_private_data_on_exit
+@ui_button	close friends	close_friends
+@ui_button	clear private data	clear_private_data
+@ui_button	gmail	gmail
+@ui_button	games	games
+@ui_button	battery percentage	battery_percentage
+@ui_button	listen now	listen_now
+@ui_button	theme	theme
+@ui_button	plus sign	plus_sign
+@ui_button	wifi only	wifi_only
+@ui_button	play test sound	play_test_sound
+@ui_button	sharing	sharing
+@ui_button	synced tabs	synced_tabs
+@ui_button	your data in maps	your_data_in_maps
+@ui_button	amazon	amazon
+@ui_button	tmobile	tmobile
+@ui_button	more	more
+@ui_button	show scale on map	show_scale_on_map
+@ui_button	received text any	received_text_any
+@ui_button	dolphin icon	dolphin_icon
+@ui_button	profile	profile
+@ui_button	plugins	plugins
+@ui_button	tools	tools
+@ui_button	account circle	account_circle
+@ui_button	apn 1	apn_1
+@ui_button	community	community
+@ui_button	browsing history	browsing_history
+@ui_button	network & internet	network_&_internet
+@ui_button	cookies & active logins	cookies_&_active_logins
+@ui_button	today	today
+@ui_button	security key	security_key
+@ui_button	connected devices	connected_devices
+@ui_button	battery saver	battery_saver
+@ui_button	privacy	privacy
+@ui_button	change password	change_password
+@ui_button	sign in	sign_in
+@ui_button	select automatically	select_automatically
+@ui_button	chat	chat
+@ui_button	wallet	wallet
+@ui_button	payments	payments
+@ui_button	site settings	site_settings
+@ui_button	battery usage	battery_usage
+@ui_button	where you're signed in	where_you're_signed_in
+@ui_button	aa	aa
+@ui_button	bookmark icon	bookmark_icon
+@ui_button	mobile data	mobile_data
+@ui_button	offline web data	offline_web_data
+@ui_button	option	option
+@ui_button	help & feedback	help_&_feedback
+@ui_button	search now	search_now
+@ui_button	cookies	cookies
+@ui_button	emoji	emoji
+@ui_button	internet	internet
+@ui_button	search or enter address	search_or_enter_address
+@ui_button	back	back
+@ui_button	battery	battery
+@ui_button	addresses and more	addresses_and_more
+@ui_button	account	account
+@ui_button	find in page	find_in_page
+@ui_button	google services	google_services
+@ui_button	report a problem	report_a_problem
+@ui_button	make firefox your default browser	make_firefox_your_default_browser
+@ui_button	update	update
+@ui_button	people	people
+@ui_button	three-dot menu icon	three-dot_menu_icon
+@ui_button	turn on incognito mode	turn_on_incognito_mode
+@ui_button	sync and google services	sync_and_google_services
+@ui_button	voice selection	voice_selection
+@ui_button	muted	muted
+@ui_button	phone	phone
+@ui_button	add-ons	add-ons
+@ui_button	send usage reports	send_usage_reports
+@ui_button	cast	cast
+@ui_button	wallpaper & style	wallpaper_&_style
+@ui_button	go	go
+@ui_button	location access	location_access
+@ui_button	latest in the area	latest_in_the_area
+@ui_button	offline pages	offline_pages
+@ui_button	my apps & games	my_apps_&_games
+@ui_button	sign out of google maps	sign_out_of_google_maps
+@ui_button	alerts only	alerts_only
+@ui_button	calendar	calendar
+@ui_button	about opera	about_opera
+@ui_button	account icon	account_icon
+@ui_button	new releases	new_releases
+@ui_button	ebay	ebay
+@ui_button	smiley face	smiley_face
+@ui_button	downloads	downloads
+@ui_button	restore default settings	restore_default_settings
+@ui_button	installed	installed
+@ui_button	subscribe	subscribe
+@ui_button	passwords	passwords
+@ui_button	data roaming	data_roaming
+@ui_button	photos	photos
+@ui_button	discover	discover
+@ui_button	update available	update_available
+@ui_button	manage your preferences	manage_your_preferences
+@ui_button	help	help
+@ui_button	media	media
+@ui_button	google location settings	google_location_settings
+@ui_button	send	send
+@ui_button	play voice during phone calls	play_voice_during_phone_calls
+@ui_button	rate this app	rate_this_app
+@ui_button	search engine	search_engine
+@ui_button	account preferences	account_preferences
+@ui_button	files	files
+@ui_button	data monitoring	data_monitoring
+@ui_button	explore	explore
+@ui_button	manage subscription	manage_subscription
+@ui_button	offline maps settings	offline_maps_settings
+@ui_button	text message	text_message
+@ui_button	vpn	vpn
+@ui_button	android auto	android_auto
+@ui_button	access point names	access_point_names
+@ui_button	form history	form_history
+@ui_button	uninstall	uninstall
+@ui_button	see details	see_details
+@ui_button	lists	lists
+@ui_button	discover people	discover_people
+@ui_button	terms & privacy	terms_&_privacy
+@ui_button	covid-19	covid-19
+@ui_button	back icon	back_icon
+@ui_button	drive	drive
+@ui_button	search links	search_links
+@ui_button	advanced	advanced
+@ui_button	archive	archive
+@ui_button	your activity	your_activity
+@ui_button	apps	apps
+@ui_button	home page	home_page
+@ui_button	call	call
+@ui_button	ads	ads
+@ui_button	clear browsing data	clear_browsing_data
+@ui_button	more icon	more_icon
+@ui_button	chromebook	chromebook
+@ui_button	clock faces	clock_faces
+@ui_button	clear data	clear_data
+@ui_button	amazon alexa	amazon_alexa
+@ui_button	bookmarks	bookmarks
+@ui_button	security	security
+@ui_button	do not track	do_not_track
+@ui_button	sound & vibration	sound_&_vibration
+@ui_button	google assistant settings	google_assistant_settings
+@ui_button	july	july
+@ui_button	language	language
+@ui_button	new incognito tab	new_incognito_tab
+@ui_button	airplane mode	airplane_mode
+@ui_button	night mode	night_mode
+@ui_button	desktop site	desktop_site
+@ui_button	search or type	search_or_type
+@ui_button	scenes	scenes
+@ui_button	clear selected data	clear_selected_data
+@ui_button	page	page
+@ui_button	save	save
+@ui_button	i menu	i_menu
+@ui_button	search history	search_history

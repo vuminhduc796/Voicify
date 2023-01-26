@@ -1,0 +1,8 @@
+chrome: ["Incognito","Main","Usage Stats", "Chrome Tabbed","Bookmark Add"]
+settings: ["Sound Settings","Wifi Scan Mode", "Location Settings", "Privacy Dashboard", "Support Dashboard", "My Device Info", "Storage Dashboard", "Print Settings", "Language Settings", "Network Dashboard", "Storage Use", "Mobile Network", "Language and input", "System dashboard"]
+maps: ["Show shared locations screen", "Places", "Traffic hub", "Manage network usage", "Business hub", "Conversation", "Message"]
+messages: ["Spam settings", "settings", "home", "smart settings", "conversation list", "rich cards settings"]
+messenger: ["Start screen"]
+playstore: ["Choose account", "snooze app", "App discovery", "main"]
+calendar: ["privacy policy", "all in one", "main"]
+instagram: ["Share", "Story", "Add To Feed", "Add To Story", "Reel", "Live camera"]

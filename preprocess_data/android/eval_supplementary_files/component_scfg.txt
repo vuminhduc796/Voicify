@@ -1,0 +1,45 @@
+@component	Traffic hub	component:traffic_hub
+@component	Support Dashboard	component:support_dashboard
+@component	Wifi Scan Mode	component:wifi_scan_mode
+@component	Add To Feed	component:add_to_feed
+@component	Print Settings	component:print_settings
+@component	Story	component:story
+@component	snooze app	component:snooze_app
+@component	main	component:main
+@component	Choose account	component:choose_account
+@component	Add To Story	component:add_to_story
+@component	Message	component:message
+@component	System dashboard	component:system_dashboard
+@component	Show shared locations screen	component:show_shared_locations_screen
+@component	My Device Info	component:my_device_info
+@component	Storage Use	component:storage_use
+@component	Business hub	component:business_hub
+@component	Language Settings	component:language_settings
+@component	Incognito	component:incognito
+@component	settings	component:settings
+@component	smart settings	component:smart_settings
+@component	Chrome Tabbed	component:chrome_tabbed
+@component	conversation list	component:conversation_list
+@component	rich cards settings	component:rich_cards_settings
+@component	Start screen	component:start_screen
+@component	home	component:home
+@component	Location Settings	component:location_settings
+@component	Reel	component:reel
+@component	Sound Settings	component:sound_settings
+@component	Conversation	component:conversation
+@component	Manage network usage	component:manage_network_usage
+@component	Mobile Network	component:mobile_network
+@component	Main	component:main
+@component	Share	component:share
+@component	privacy policy	component:privacy_policy
+@component	Network Dashboard	component:network_dashboard
+@component	Usage Stats	component:usage_stats
+@component	all in one	component:all_in_one
+@component	Live camera	component:live_camera
+@component	Places	component:places
+@component	Spam settings	component:spam_settings
+@component	Bookmark Add	component:bookmark_add
+@component	Language and input	component:language_and_input
+@component	Privacy Dashboard	component:privacy_dashboard
+@component	App discovery	component:app_discovery
+@component	Storage Dashboard	component:storage_dashboard
